@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  height: 100vh;
+}
+
+ul {
+  list-style: none;
+}
+
+.sidebar {
+  height: 100vh;
+}
+
+.h1 {
+  color: rgba(221,155,150,255);
+}
+
+.pink-bar, .sidebar {
+  background-color: rgba(221,155,150,255);
+  color: whitesmoke;
+  text-align: center;
+}
+
