@@ -18,6 +18,8 @@ Bootstrap v5.2
 ## Credits
 ### Content
 The text in this site is obtained from Nigella Express.
+Icon by <a href="https://freeicons.io/profile/203466">Ahmad Smadi</a> on <a href="https://freeicons.io">freeicons.io</a>
+                                
 ### Media
 The photo used in this site is obtained from Nigella Express.
 The icons are obtained from Canva graphics.
